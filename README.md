@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nazywam się Marcin i jestem studentem Politechniki Rzeszowskiej, <br>ostatniego roku studiów inżynierskich na kierunku Informatyka.<br>Podczas studiów nabyłem dobrą znajomość języków Python oraz SQL, w szczególności poprzez zrealizowane projekty. <br>Ponadto znam podstawy konteneryzacji oraz nie mam problemów w komunikacji w języku angielskim. <br>Nieustannie rozwijam swoją wiedzę i umiejętności, m.in. poprzez udział w hackatonach oraz kursach.<br>Oprócz interesowania się informatyką, moim hobby jest koszykówka i kolarstwo górskie XC
+Nazywam się Marcin i jestem studentem Politechniki Rzeszowskiej, ostatniego roku studiów inżynierskich na kierunku Informatyka.<br>Podczas studiów nabyłem dobrą znajomość języków Python oraz SQL, w szczególności poprzez zrealizowane projekty. <br>Ponadto znam podstawy konteneryzacji oraz nie mam problemów w komunikacji w języku angielskim. <br>Nieustannie rozwijam swoją wiedzę i umiejętności, m.in. poprzez udział w hackatonach oraz kursach.<br>Oprócz interesowania się informatyką, moim hobby jest koszykówka i kolarstwo górskie XC
 
 
 ## 🌐 Socials:
