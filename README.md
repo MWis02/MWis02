@@ -3,7 +3,7 @@
 # 👋 O mnie: 
 
 Jestem absolwentem studiów pierwszego stopnia informatyki na Politechnice Rzeszowskiej, na specjalności Systemy i sieci komputerowe. 
-Moje zainteresowania obejmują szeroko pojętą informatykę, ze szczególnym uwzględnieniem programowania, analizy danych oraz cyberbezpieczeństwa.
+Moje zainteresowania obejmują szeroko pojętą informatykę, ze szczególnym uwzględnieniem programowania, sieci komputerowych oraz cyberbezpieczeństwa.
 Moje solidne fundamenty w Pythonie oraz SQL zbudowałem poprzez realizację licznych projektów praktycznych. 
 Nieustannie poszerzam swoje horyzonty, biorąc udział w hackathonach oraz specjalistycznych kursach. 
 Poza światem IT, moją wielką pasją jest **koszykówka** oraz **kolarstwo górskie XC**.
